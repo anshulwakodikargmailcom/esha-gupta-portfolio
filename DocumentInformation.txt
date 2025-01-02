@@ -1,0 +1,8 @@
+Some Documents:
+1. Aadhar Card
+2. Photo Id
+3. Electricity Bill
+4. Water Bill
+5. Driving Licence
+6. PAN Card
+7. House Licence
